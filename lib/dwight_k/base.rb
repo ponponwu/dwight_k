@@ -71,7 +71,6 @@ module Dwight_k
                                                 ``..-.--........``
                                                      ```..```
           "
-       puts "#{mp3}"
       `afplay #{mp3}`
     end
 
