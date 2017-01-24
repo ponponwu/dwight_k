@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+
+require 'dwight_k'
+
+Dwight_k::Base.start ARGV
